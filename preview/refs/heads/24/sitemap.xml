@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.osbuild.org/osbuild.github.io/preview/refs/heads/24/rpmrepo/</loc>
-<lastmod>2020-11-12T06:22:46-06:00</lastmod>
+<lastmod>2020-11-12T06:23:26-06:00</lastmod>
 </url>
 <url>
 <loc>https://www.osbuild.org/osbuild.github.io/preview/refs/heads/24/man/osbuild-manifest.5</loc>
-<lastmod>2020-11-12T06:22:46-06:00</lastmod>
+<lastmod>2020-11-12T06:23:26-06:00</lastmod>
 </url>
 <url>
 <loc>https://www.osbuild.org/osbuild.github.io/preview/refs/heads/24/man/osbuild.1</loc>
-<lastmod>2020-11-12T06:22:46-06:00</lastmod>
+<lastmod>2020-11-12T06:23:26-06:00</lastmod>
 </url>
 <url>
 <loc>https://www.osbuild.org/osbuild.github.io/preview/refs/heads/24/news/2020-03-17-welcome.html</loc>

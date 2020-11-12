@@ -3,7 +3,7 @@
   <title type="html">OSBuild</title>
   <subtitle>Build-Pipelines for Operating System Artifacts</subtitle>
   <id>https://www.osbuild.org/osbuild.github.io/preview/refs/heads/24/</id>
-  <updated>2020-11-12T06:22:46-06:00</updated>
+  <updated>2020-11-12T06:23:26-06:00</updated>
   <author><name>OSBuild Developers</name></author>
   <generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator>
   <link href="https://www.osbuild.org/osbuild.github.io/preview/refs/heads/24/feed.fedoraplanet.xml" rel="self" type="application/atom+xml" />
@@ -12,17 +12,15 @@
 
 
 <entry>
-  <title>Release of osbuild-composer 23</title>
+  <title>Release of osbuild-composer 24</title>
   <id>https://www.osbuild.org/osbuild.github.io/preview/refs/heads/24/news/release-osbuild-composer-24</id>
   <published>2020-11-12T00:00:00-06:00</published>
   <updated>2020-11-12T00:00:00-06:00</updated>
   <author><name>OSBuild Developers</name></author>
-  <link href="https://www.osbuild.org/osbuild.github.io/preview/refs/heads/24/news/2020-11-12-release-osbuild-composer-24.html" rel="alternate" type="text/html" title="Release of osbuild-composer 23" />
+  <link href="https://www.osbuild.org/osbuild.github.io/preview/refs/heads/24/news/2020-11-12-release-osbuild-composer-24.html" rel="alternate" type="text/html" title="Release of osbuild-composer 24" />
 
-  <summary type="html">&lt;p&gt;We are happy to announce that we released osbuild-composer 23 – better late
-than never!&lt;/p&gt;</summary>
-  <content type="html" xml:base="https://www.osbuild.org/osbuild.github.io/preview/refs/heads/24/news/2020-11-12-release-osbuild-composer-24.html">&lt;p&gt;We are happy to announce that we released osbuild-composer 23 – better late
-than never!&lt;/p&gt;
+  <summary type="html">&lt;p&gt;We are happy to announce that we released osbuild-composer 24.&lt;/p&gt;</summary>
+  <content type="html" xml:base="https://www.osbuild.org/osbuild.github.io/preview/refs/heads/24/news/2020-11-12-release-osbuild-composer-24.html">&lt;p&gt;We are happy to announce that we released osbuild-composer 24.&lt;/p&gt;
 
 &lt;p&gt;Below you can find the official change log, compiled by Ondřej Budai. Everyone
 is encouraged to upgrade!&lt;/p&gt;
